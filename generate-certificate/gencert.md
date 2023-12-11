@@ -31,5 +31,5 @@ The command will generate two files:
 You can confirm the certificate content by using the following standard `x509` command:
 
 ```bash
-openssl x509 -in mattermost-x509.cer -noout -text
+openssl x509 -in logicaldoc-x509.cer -noout -text
 ```
